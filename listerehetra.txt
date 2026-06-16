@@ -6,3 +6,7 @@ Nom : TESTAAAAAAAAAA
 prefix : testa
 fichier : testra.txt
 
+Nom : oeo hita
+prefix : oe
+fichier : oefiche.txt
+
