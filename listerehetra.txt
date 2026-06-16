@@ -26,3 +26,7 @@ Nom : my good
 prefix : phototsara
 fichier : mok.txt
 
+Nom : 🍿 ok ⛽
+prefix : okm
+fichier : pom.txt
+
