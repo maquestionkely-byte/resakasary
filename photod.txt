@@ -9,5 +9,3 @@ photoko7.png
 photoko8.png
 photoko9.jpg
 photoko10.jpg
-photoko11.jpg
-photoko12.jpg
