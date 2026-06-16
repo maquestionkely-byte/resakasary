@@ -10,15 +10,19 @@ Nom : oeo hita
 prefix : oe
 fichier : oefiche.txt
 
-Nom : Ã°ÂÂ¥Â°Ã°ÂÂÂÃ¢ÂÂ  voir
+Nom : ÃÂ°ÃÂÃÂ¥ÃÂ°ÃÂ°ÃÂÃÂÃÂÃÂ¢ÃÂÃÂ  voir
 prefix : toa
 fichier : toafuchi.txt
 
-Nom : ðª ð lover
+Nom : Ã°ÂÂÂª Ã°ÂÂÂ lover
 prefix : ot
 fichier : okay.txt
 
-Nom : 😍 loove,be
+Nom : ð loove,be
 prefix : photore
 fichier : metyka.txt
+
+Nom : my good
+prefix : phototsara
+fichier : mok.txt
 
