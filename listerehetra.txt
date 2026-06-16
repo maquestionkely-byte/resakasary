@@ -34,3 +34,7 @@ Nom : mokoko
 prefix : photor
 fichier : pioj.txt
 
+Nom : ✌ oui 💏
+prefix : photop
+fichier : bv.txt
+
