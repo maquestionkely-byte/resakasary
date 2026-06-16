@@ -1,0 +1,3 @@
+Nom : Photos motivantes 
+prefix :photo
+fichier :numerosary.txt
