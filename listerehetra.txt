@@ -14,3 +14,7 @@ Nom : ✌ oui 💏
 prefix : photop
 fichier : bv.txt
 
+Nom : photooook😁✅🥰
+prefix : photoko
+fichier : photod.txt
+
