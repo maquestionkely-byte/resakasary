@@ -1,27 +1,3 @@
-Nom : andrana
-prefix : andrana
-fichier : nyandrana
-
-Nom : TESTAAAAAAAAAA
-prefix : testa
-fichier : testra.txt
-
-Nom : oeo hita
-prefix : oe
-fichier : oefiche.txt
-
-Nom : ÃÂ°ÃÂÃÂ¥ÃÂ°ÃÂ°ÃÂÃÂÃÂÃÂ¢ÃÂÃÂ  voir
-prefix : toa
-fichier : toafuchi.txt
-
-Nom : Ã°ÂÂÂª Ã°ÂÂÂ lover
-prefix : ot
-fichier : okay.txt
-
-Nom : ð loove,be
-prefix : photore
-fichier : metyka.txt
-
 Nom : my good
 prefix : phototsara
 fichier : mok.txt
