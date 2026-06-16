@@ -22,3 +22,7 @@ Nom : oooooooooo 😂 ooooooooo
 prefix : photot
 fichier : photot.txt
 
+Nom : daaaaaaaaad 🥰🥰🥰🥰🥰🥰🥰🥰
+prefix : photoge
+fichier : photoge.txt
+
