@@ -2,3 +2,7 @@ Nom : look 💏 me
 prefix : video
 fichier : videokely.txt
 
+Nom : 😂 rire 😍
+prefix : video
+fichier : videozany.txt
+
