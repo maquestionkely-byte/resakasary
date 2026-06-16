@@ -30,3 +30,7 @@ Nom : 🍿 ok ⛽
 prefix : okm
 fichier : pom.txt
 
+Nom : mokoko
+prefix : photor
+fichier : pioj.txt
+
