@@ -3,4 +3,4 @@ photoko2.png
 photoko3.jpg
 photoko4.jpg
 photoko5.jpg
-photoko6.png
+photoko6.jpg
