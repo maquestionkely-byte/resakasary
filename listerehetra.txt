@@ -1,3 +1,4 @@
-Nom : Photos motivantes 
-prefix :photo
-fichier :numerosary.txt
+Nom : andrana
+prefix : andrana
+fichier : nyandrana
+
