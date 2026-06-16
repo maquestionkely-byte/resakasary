@@ -5,3 +5,4 @@ photoko4.jpg
 photoko5.jpg
 photoko6.jpg
 photoko7.jpg
+photoko7.png
