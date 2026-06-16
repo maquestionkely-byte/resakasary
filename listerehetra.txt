@@ -10,7 +10,11 @@ Nom : oeo hita
 prefix : oe
 fichier : oefiche.txt
 
-Nom : 🥰😁✅  voir
+Nom : ð¥°ðâ  voir
 prefix : toa
 fichier : toafuchi.txt
+
+Nom : 💪 😍 lover
+prefix : ot
+fichier : okay.txt
 
