@@ -10,3 +10,7 @@ Nom : hoho 😍
 prefix : videoko
 fichier : tre.txt
 
+Nom : voir 😍
+prefix : videoke
+fichier : numerovideo.txt
+
