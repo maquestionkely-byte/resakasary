@@ -14,3 +14,7 @@ Nom : voir 😍
 prefix : videoke
 fichier : numerovideo.txt
 
+Nom : video lesona 😁
+prefix : videolesona
+fichier : numerovi.txt
+
