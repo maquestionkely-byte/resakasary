@@ -1,28 +1,8 @@
-Nom : my good
-prefix : phototsara
-fichier : mok.txt
+Nom : Photos 🇫🇷 FRANÇAIS ⇄ MALAGASY 🇲🇬 
+prefix : photo_tradu
+fichier : numero_tradu.txt
 
-Nom : 🍿 ok ⛽
-prefix : okm
-fichier : pom.txt
-
-Nom : mokoko
-prefix : photor
-fichier : pioj.txt
-
-Nom : ✌ oui 💏
-prefix : photop
-fichier : bv.txt
-
-Nom : photooook😁✅🥰
-prefix : photoko
-fichier : photod.txt
-
-Nom : oooooooooo 😂 ooooooooo
-prefix : photot
-fichier : photot.txt
-
-Nom : daaaaaaaaad 🥰🥰🥰🥰🥰🥰🥰🥰
-prefix : photoge
-fichier : photoge.txt
+Nom : 💪 Photos motivantes
+prefix : photo_moti
+fichier : numero_moti.txt
 
